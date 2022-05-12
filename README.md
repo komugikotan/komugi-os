@@ -1,1 +1,0 @@
-# komugi-os
